@@ -1,10 +1,4 @@
-This project was bootstrapped with
-[Bottender](https://github.com/Yoctol/bottender) init script.
-
-## Sending Feedback
-
-Always feel free to open an issue to
-[Bottender](https://github.com/Yoctol/bottender/issues) repository.
+# Episode Release Date Bot
 
 ## Configuration
 
@@ -60,3 +54,6 @@ Runs the test cases using [Jest](https://jestjs.io/).
 To learn Bottender, check out the [Bottender documentation](https://bottender.js.org/docs/en/getting-started).
 
 For more examples, see [Bottender examples](https://github.com/Yoctol/bottender/tree/master/examples).
+
+This project was bootstrapped with
+[Bottender](https://github.com/Yoctol/bottender) init script.
