@@ -1,4 +1,4 @@
-const App = require('.');
+const App = require('../src');
 
 describe('index.js', () => {
   it('should be defined', () => {
